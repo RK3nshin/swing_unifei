@@ -38,8 +38,6 @@ public class Cadastrar extends JFrame {
         painelPrincipal.add(painelBotaoEnviar);
 
 
-
-       
         this.add(painelPrincipal);
 
     }

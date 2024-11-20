@@ -14,6 +14,7 @@ public class PainelData  extends JPanel{
 
         // Spinner para o dia (números de 1 a 31)
         SpinnerNumberModel modelDia = new SpinnerNumberModel(1, 1, 31, 1);
+        
         JSpinner spinnerDia = new JSpinner(modelDia);
 
         // Spinner para o mês (nomes dos meses)
